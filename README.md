@@ -1,8 +1,9 @@
-#### Hi My name is Nikita Tsvirkun
+#### Hi 👋 My name is Nikita
 
 ### Skills
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Python" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Python"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Python"/>
 </p>
 <!--
 **pitsaaa/pitsaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
