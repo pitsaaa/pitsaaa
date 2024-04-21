@@ -2,7 +2,7 @@
 
 ### Skills
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Python"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Python"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL"/><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="36" height="36" alt="Jupyter Notebook"/>
 </p>
 <!--
 **pitsaaa/pitsaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
